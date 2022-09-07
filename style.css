@@ -3,4 +3,7 @@ body {
   background: grey;
   text-align: center;
 }
+h1, h2, p {
+  text-align: center;
+}
 
