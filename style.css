@@ -11,10 +11,6 @@ h1, h2, p {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-div {
-  background-color: aqua;
-}
-
 .container{
   background-color: rgb(255,255,255);
   padding: 10px 0;
